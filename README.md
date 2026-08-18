@@ -18,4 +18,11 @@
 -[ ]story reading<br>
 |Name|Age|Qualification|<br>
 |xxx|yyy|zzz|<br>
+<details>
+  <summary>
+    click for hidden contents goes here
+</detils>    
+<\summary> 
+
+    
 
