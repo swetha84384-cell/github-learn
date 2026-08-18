@@ -18,7 +18,7 @@
 -[ ]story reading<br>
 <hr>
 |  Name  |  Age  |  Qualify |
-|  ----  |  ---- |  ------- |
+| ---| --- | ---|
 |  xxx   |   yyy |   zzz    |
 <hr>
 [git-hub] ("https://github.com" "click title")<br>
