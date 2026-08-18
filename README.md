@@ -14,15 +14,12 @@
 *item-2<br>
 1 item-3<br>
 2 item-4<br>
--[ ]music<br>
--[ ]story reading<br>
+[]music<br>
+[]story reading<br>
 |Name|Age|Qualification|<br>
 |xxx|yyy|zzz|<br>
-<details>
-  <summary>
-    click for hidden contents goes here
-</detils>    
-<\summary> 
+<hr>
+
 
     
 
