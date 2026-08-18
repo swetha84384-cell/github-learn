@@ -14,13 +14,15 @@
 *item-2<br>
 1 item-3<br>
 2 item-4<br>
-[]music<br>
-[]story reading<br>
-|Name|Age|Qualify|<br>
-|xxx|yyy|zzz|<br>
+-[ ]music<br>
+-[ ]story reading<br>
+|  Name  |  Age  |  Qualify |
+|  ----  |  ---- |  ------- |
+|  xxx   |  yyy  |   zzz    |
 <hr>
-[git-hub] ("https://github.com" "click title")
+[git-hub] ("https://github.com" "click title")<br>
 <mark>This is an example for highlighting text</mark>
+<a href="www.google.com"> click here to go google</a> 
 
 
     
