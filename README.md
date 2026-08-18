@@ -20,6 +20,7 @@
 |xxx|yyy|zzz|<br>
 <hr>
 [git-hub] ("https://github.com" "click title")
+<mark>This is an example for highlighting text</mark>
 
 
     
