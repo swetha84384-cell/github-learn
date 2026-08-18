@@ -16,9 +16,10 @@
 2 item-4<br>
 -[ ]music<br>
 -[ ]story reading<br>
+<hr>
 |  Name  |  Age  |  Qualify |
 |  ----  |  ---- |  ------- |
-|  xxx   |  yyy  |   zzz    |
+|  xxx   |   yyy |   zzz    |
 <hr>
 [git-hub] ("https://github.com" "click title")<br>
 <mark>This is an example for highlighting text</mark>
