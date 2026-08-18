@@ -16,9 +16,10 @@
 2 item-4<br>
 []music<br>
 []story reading<br>
-|Name|Age|Qualification|<br>
+|Name|Age|Qualify|<br>
 |xxx|yyy|zzz|<br>
 <hr>
+[git-hub] ("https://github.com" "click title")
 
 
     
